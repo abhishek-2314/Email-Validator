@@ -1,0 +1,14 @@
+.navbar{
+    color: aliceblue;
+}
+
+.navbar-brand img{
+    width: 40px;
+    filter: invert(1);
+}
+
+@media(min-width:1000px){
+    .media{
+        width: 50vw;
+    }
+}
